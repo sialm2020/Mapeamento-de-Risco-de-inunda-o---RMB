@@ -1,5 +1,6 @@
 # Versão  R.4.1.2		27/07/2023
-# ultima visita		29/07/2023         
+# Desenvolvido por: Dr. Joaquim Queirozn (UFPA)
+# Adaptação: Sindy Almeida (PGMET/INPE)       
 
 rm(list=ls())	# limpar a area de trabalho
 # a alternativa pro rgal é usar o sf com st_read
